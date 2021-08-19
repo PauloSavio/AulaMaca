@@ -18,3 +18,7 @@
 - Fechar o portão
 - Usar a chave grande para trancar o portão de saída
 - Guardar as chaves no bolso
+- Virar para a esquerda
+- Começar a andar
+- Seguir a calçada da esquerda até estar em frente ao mini-mercado Meiwa
+- Entrar no mercado
