@@ -1,0 +1,20 @@
+- Levantar da cadeira
+- Pegar a carteira em cima da mesa
+- Colocar a carteira no bolso
+- Andar até a porta
+- Pegar a máscara no suporte
+- Colocar a máscara
+- Pegar as chaves no chaveiro
+- Usar a chave verde para destrancar a porta da sala
+- Girar a maçaneta da porta da sala para a direita até a porta se abrir
+- Sair pela porta sala
+- Fechar a porta da sala
+- Usar a chave verde para trancar a porta da sala
+- Colocar as chaves no bolso
+- Seguir o corredor até o portão de saída
+- Usar a chave grande para destrancar o portão de saída
+- Puxar a maçaneta do portão até ele abrir
+- Sair pelo portão
+- Fechar o portão
+- Usar a chave grande para trancar o portão de saída
+- Guardar as chaves no bolso
