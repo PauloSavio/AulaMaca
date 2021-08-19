@@ -48,3 +48,38 @@
 - Colocar todo o troco na carteira
 - Pegar o saco plástico com a maçã
 - Sair do mercado
+- Virar para a direita
+- Seguir pela calçada da direita até chegar em frente ao meu prédio
+- Pegar as chaves no bolso
+- Usar a chave grande para destrancar o portão
+- Empurrar o portão até ele abrir
+- Entrar pelo portão
+- Fechar o portão
+- Usar a chave grande para trancar o portão
+- Seguir o corredor até chegar na porta do apartamento
+- Usar a chave verde para destrancar a porta
+- Girar a maçaneta para a esquerda até a porta abrir
+- Entrar pela porta da sala
+- Fechar a porta da sala
+- Usar a chave verde para trancar a porta da sala
+- Pendurar as chaves no chaveiro
+- Retirar a máscara
+- Pendurar a máscara no suporte
+- Andar até a mesa
+- Tirar a carteira do bolso
+- Colocar a carteira em cima da mesa
+- Andar até a cozinha
+- Rasgar o saco plástico
+- Andar até o lixo
+- Abrir o lixo
+- Jogar o saco plástico no lixo
+- Fechar o lixo
+- Andar até a pia
+- Abrir a torneira
+- Lavar bem as mãos
+- Lavar bem a maçã
+- Fechar a torneira
+- Andar até a sala
+- Andar até a mesa
+- Sentar na cadeira
+- Deleitar-se com uma deliciosa maçã
